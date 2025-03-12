@@ -27,7 +27,7 @@ class Mine extends Person {
   }
 
   next_locations() {
-    return ["United State?"];
+    return ["Toronto?"];
   }
 
   currently() {
