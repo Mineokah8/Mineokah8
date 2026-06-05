@@ -17,7 +17,7 @@ class Mine extends Person {
     super();
     this.name = "Tejiri Mine";
     this.age = 21;
-    this.work = ["Freelance", "Building BeatBridge"];
+    this.work = ["Freelance", "Building HandyNaija"];
     this.education = ["BSC Benson Idahosa University", "Graceville"];
     this.hobbies = ["Drawing", "Playing Piano", "Gaming", "Reading"];
   }
